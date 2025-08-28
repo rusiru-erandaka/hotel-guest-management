@@ -6,7 +6,7 @@ Built with **React + Vite + TypeScript + TailwindCSS** on the frontend, and **Po
 ---
 
 ## 📂 Project Structure
-
+```
 hotel-guest-management/
 ├── client/              # Frontend (React + Vite + TypeScript + Tailwind)
 ├── server/              # Backend (PocketBase + SQLite)
@@ -14,7 +14,7 @@ hotel-guest-management/
 │   ├── pb_migrations/   # PocketBase migrations folder (auto-created)
 │   └── README.md        # Backend setup + admin credentials
 └── README.md            # Project documentation (root)
-
+```
 
 ---
 
@@ -65,5 +65,6 @@ http://localhost:5173
 /guests/:id → View / Edit / Delete guest details
 
 ### Thank you
+
 
 
