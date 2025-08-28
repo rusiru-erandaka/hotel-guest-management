@@ -47,9 +47,9 @@ Admin UI → http://127.0.0.1:8090/_/
    npm install
    ```
 3. Create a .env file in client/ with:
-   
-VITE_PB_URL=http://127.0.0.1:8090
-
+   ```
+   VITE_PB_URL=http://127.0.0.1:8090
+   ```
 ### 2. Run the App
    ```powershell
    npm run dev
@@ -65,6 +65,7 @@ http://localhost:5173
 /guests/:id → View / Edit / Delete guest details
 ```
 ### Thank you
+
 
 
 
