@@ -64,7 +64,8 @@ http://localhost:5173
 /guests/new → Add a new guest
 /guests/:id → View / Edit / Delete guest details
 ```
-### Thank you
+### Thank you.
+
 
 
 
